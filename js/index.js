@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
-    var active1 = false;
-    var active2 = false;
-    var active3 = false;
-    var active4 = false;
+    let active1 = false;
+    let active2 = false;
+    let active3 = false;
+    let active4 = false;
 
     $('.parent2').on('mousedown touchstart', function() {
 
